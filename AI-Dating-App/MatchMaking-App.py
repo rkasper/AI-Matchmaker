@@ -391,9 +391,3 @@ if button:
 
         # Displaying the Top 10 similar profiles
         st.table(top_10_df)
-        
-
-        
-
-    
-
