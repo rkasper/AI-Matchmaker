@@ -3,7 +3,7 @@ Utilizing AI and Machine Learning to match dating profiles with one another
 
 ### [My Medium Page](https://marco-santos.medium.com/membership)
 
-![](AI-Dating-App/robot_matchmaker.jpg)
+![](4-AI-Dating-App/robot_matchmaker.jpg)
 
 ## Medium Articles Detailing the Process
 
